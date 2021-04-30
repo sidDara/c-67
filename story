@@ -1,1 +1,1 @@
-Hare challenges Tortoise to a race. Tortoise agrees and they have a race. 
+Hare challenges Tortoise to a race. Tortoise agrees and they have a race. Hare takes the lead and does not see Tortoise. 
